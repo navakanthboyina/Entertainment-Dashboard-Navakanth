@@ -1,10 +1,10 @@
-# Free & Legal Entertainment Dashboard
+# Entertainment Dashboard - Navakanth
 
-A simple public dashboard for discovering and launching **free and legal entertainment sources** across movies, TV, music, radio, podcasts, audiobooks, games, documentaries, and education.
+A public entertainment dashboard by Navakanth for discovering and launching **free and legal entertainment sources** across movies, TV, music, radio, podcasts, audiobooks, games, documentaries, and education.
 
 ## Live Site
 
-https://navakanthboyina.github.io/
+https://navakanthboyina.github.io/Entertainment-Dashboard-Navakanth/
 
 ## Categories
 
@@ -61,6 +61,10 @@ The current version intentionally uses:
 - GitHub Pages
 
 This keeps the project fast, lightweight, easy to maintain, and dependency-free.
+
+## Repository
+
+https://github.com/navakanthboyina/Entertainment-Dashboard-Navakanth
 
 ## Deployment
 
